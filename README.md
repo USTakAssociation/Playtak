@@ -3,7 +3,7 @@
 This is the legacy code used for running [playtak.com](https://playtak.com).
 
 ### Notes
-Alot of the prjects have been moved to their own repos see the following list:
+A majority of the code has been moved to their own repos see the following list:
 - [playtak-server](https://github.com/USTakAssociation/tak-server)
 - [playtak-ui](https://github.com/USTakAssociation/playtak-ui)
 - [game-history-ui](https://github.com/USTakAssociation/playtak-games)
