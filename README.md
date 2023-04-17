@@ -1,9 +1,13 @@
 # Playtak
 
-This is the code used for running [playtak.com](https://playtak.com).
+This is the legacy code used for running [playtak.com](https://playtak.com).
 
 ### Notes
-Playtak client UI is no long in the static folder and has been moved to it's own repo here [playtak-ui](https://github.com/USTakAssociation/playtak-ui)
+Alot of the prjects have been moved to their own repos see the following list:
+- [playtak-server](https://github.com/USTakAssociation/tak-server)
+- [playtak-ui](https://github.com/USTakAssociation/playtak-ui)
+- [game-history-ui](https://github.com/USTakAssociation/playtak-games)
+- [playtak-api](https://github.com/USTakAssociation/playtak-api)
 
 ## Contributing
 PlayTak is an OPEN Open Source Project. This means that:
