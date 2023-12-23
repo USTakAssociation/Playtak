@@ -3,7 +3,7 @@
 This is the legacy code used for running [playtak.com](https://playtak.com).
 
 ### Notes
-A majority of the code has been moved to their own repos see the following list:
+A majority of the code has been moved to their own repos; see the following list:
 - [playtak-server](https://github.com/USTakAssociation/tak-server)
 - [playtak-ui](https://github.com/USTakAssociation/playtak-ui)
 - [game-history-ui](https://github.com/USTakAssociation/playtak-games)
@@ -14,7 +14,7 @@ PlayTak is an OPEN Open Source Project. This means that:
 
 > Individuals making significant and valuable contributions are given commit-access to the project to contribute as they see fit.
 
-Please read [CONTRIBUTING.md](docs/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
+Please read below for details on our code of conduct, and the process for submitting pull requests to us.
 
 1. Fork it!
 2. Create your feature branch: git checkout -b my-new-feature
